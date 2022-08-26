@@ -9,7 +9,7 @@ function App() {
 
         <a
           className="App-link"
-          href="https://github.com/Asmi Agarwal"
+          href="https://github.com/AsmiAgarwal"
           target="_blank"
           rel="noopener noreferrer"
         >
