@@ -9,11 +9,11 @@ function App() {
 
         <a
           className="App-link"
-          href="https://github.com/MrKrishnaAgarwal/deploy-react-app-to-gh-pages"
+          href="https://github.com/Asmi Agarwal"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Testing my GitHub Action
+          My First React App
         </a>
       <br></br>
         <a
@@ -25,7 +25,7 @@ function App() {
           Learn React
         </a>
         <p>
-          Made by @MrKrishnaAgarwal
+          Made by @AsmiAgarwal
         </p>
       </header>
     </div>
